@@ -1,0 +1,3 @@
+My experience with compiling btop
+
+Completing the part B of the tutorial 2 has exposed to ways of building software and installing it in a virtual machine(vm). It was a rollercoaster of a learning journey but at the same time it was mind-blowing and very interesting. The only issue I encountered was with the make step. But that was only because I hadn't installed it yet on my vm. Following the rest of the steps after fixing that was pretty easy.
